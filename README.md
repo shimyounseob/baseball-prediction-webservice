@@ -62,5 +62,5 @@
 - **개발언어**: Python v3.9.16
 - **데이터베이스**: MySQL
 - **저장소**: Amazon S3
-- **CI/CD**: GitHub (CI), AWS (CD)
+- **CI/CD**: GitHub (CI), Github Actions (CD)
 - **개발환경**: Jupyter Notebook
