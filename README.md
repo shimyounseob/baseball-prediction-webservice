@@ -45,7 +45,7 @@
 
 ### 시스템 아키텍처
 
-![image](https://github.com/shimyounseob/baseball-prediction-webservice/assets/97441805/bdc311f5-a8d4-4b85-9cec-11f0695ee0d3)
+![image](https://github.com/shimyounseob/baseball-prediction-webservice/assets/97441805/06b8f09c-94bf-4b25-a486-73e710a41474)
 
 #### 기술 스택
 - **프레임워크**: Django v4.2.13
